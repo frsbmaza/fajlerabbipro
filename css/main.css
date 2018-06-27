@@ -1,0 +1,10 @@
+@font-face{
+    src:url(../fonts/HelveticaNeueLTStd-Lt.otf) format('opentype');
+    font-family:HelveticaNeueLTStdLT;
+}
+
+
+body{
+    font-family:HelveticaNeueLTStdLT;
+    font-feature-settings: normal;
+}
